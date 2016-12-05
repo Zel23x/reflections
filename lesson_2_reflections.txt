@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize a Repo, means that I'm converting my project folder into a git repository. I need to do this for starting monitoring the project changes over time.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The Staging Area is different from the working directory in a way that the staging area only prepares the files to commit from your Working directory. This way you can set up only the files changed in each commit, without compromising the rest of the files of your working directory.
