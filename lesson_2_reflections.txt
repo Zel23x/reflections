@@ -5,3 +5,19 @@ When I initialize a Repo, means that I'm converting my project folder into a git
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The Staging Area is different from the working directory in a way that the staging area only prepares the files to commit from your Working directory. This way you can set up only the files changed in each commit, without compromising the rest of the files of your working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By only adding to the staging area the files that do have a change since the last commit. Also, those changes need to be related to the same functionality.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+In my case, while adding a new tool into a Webpage, without breaking my code, this way i can continue working on my main webpage, but i can add another features like translations or whatever.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams helped e understanding the concept of Detached head, and make the understanding of reachability of each of the commits more easy.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is about beign able to check log introduced in another branch in the "master" branch. Because it keeps track of a feature or version history changes overtime without altering the master branch.
