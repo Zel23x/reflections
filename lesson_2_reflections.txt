@@ -21,3 +21,8 @@ Diagrams helped e understanding the concept of Detached head, and make the under
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is about beign able to check log introduced in another branch in the "master" branch. Because it keeps track of a feature or version history changes overtime without altering the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: Saving Time while managing to id the conflicts on each commit
+Cons: conflict with the other user about changed introduced/deleted into the code.
