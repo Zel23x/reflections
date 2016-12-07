@@ -16,7 +16,7 @@ In my case, while adding a new tool into a Webpage, without breaking my code, th
 
 How do the diagrams help you visualize the branch structure?
 
-Diagrams helped e understanding the concept of Detached head, and make the understanding of reachability of each of the commits more easy.
+Diagrams helped me understanding the concept of Detached head, and make the understanding of reachability of each of the commits more easy.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 

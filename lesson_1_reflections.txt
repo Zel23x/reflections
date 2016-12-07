@@ -24,20 +24,20 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    For easiness of accesing a file. Managing a large amount of files for each versions can be quite difficult.
+Mainly because sometimes while adding or modifying a feature on a project, more than one file is used for it to be functional.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    No clue, yet...
+You can use Git Log to acces the history of recent commits done on your project. Git diff can be used to spot differences between each one of those commits.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Well you can actually have a preious non broke version of your code. So you got an ensurance that if something just brokes, you can go back to a previous working version.
+    Well you can actually have a previous non broke version of your code. So you got an ensurance that if something just brokes, you can go back to a previous working version.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Managing different versions for my web code.
+Manage control on my web-dev learning project and in a future, my profesional ones.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
@@ -50,21 +50,4 @@ What do you think are the pros and cons of manually choosing when to create a co
    -Makes each commit more logically understandable.
 
    Cons:
-   -The posibility of missing any important changes due to forgetting to commit.
-
-
-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-
-   Mainly because of how the tool was designed. Git is aimed for professional version control of code, and it's a tool used by many coders, including web coders, who, as mentioned, need the to track more than one file in each one of their projects.
-
-   How can you use the commands git log and git diff to view the history of files?
-
-   With each commit on git, I'm able to manage easily between each change that i make on the code file. Now if i get something that i want to change, or a bug that i want to fix, by using Git log and Git Diff is pretty easy to check those changes/bugs.
-
-   How might using version control make you more confident to make changes that could break something?
-
-   By knowing that you're able to revert any bad code line from your code.
-
-   Now that you have your workspace set up, what do you want to try using Git for?
-
-   First, to start messing up with my Web Dev learning projects, then obviously to check on the more important ones over time.
+   -The possibility of missing any important changes due to forgetting to commit.
