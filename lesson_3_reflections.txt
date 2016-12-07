@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I'm trying to add other's work on my project without altering the master branch. Once the new addition is properly discussed and executed, it is totally fine to merge this branch with your master (Local/Remote).
